@@ -101,7 +101,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 ---
 
 ## 🔐 Tokenization API
-### MobiToken API
+### MobiToken Tokenization API
 
 Dramatically reduce your PCI DSS compliance scope by replacing sensitive card data with secure, processor-agnostic cryptographic tokens that can't be reverse-engineered.
 
@@ -113,6 +113,14 @@ Dramatically reduce your PCI DSS compliance scope by replacing sensitive card da
 | [Tokenization NodeJS SDK](https://github.com/mobicardsystemsltd/mobitoken-nodejs) | NodeJS SDK for MobiToken API |
 | [Tokenization cURL SDK](https://github.com/mobicardsystemsltd/mobitoken-curl) | Curl client for MobiToken API |
 
+### MobiToken De-Tokenization API
+| SDK Repository | Description |
+|---------------|-------------|
+| [De-Tokenization PHP SDK](https://github.com/mobicardsystemsltd/mobitoken-detokenize-php) | De-Tokenization PHP client for MobiToken API |
+| [De-Tokenization Python SDK](https://github.com/mobicardsystemsltd/mobitoken-detokenize-python) | De-Tokenization Python SDK for MobiToken API |
+| [De-Tokenization Java SDK](https://github.com/mobicardsystemsltd/mobitoken-detokenize-java) | De-Tokenization Java SDK for MobiToken API |
+| [De-Tokenization NodeJS SDK](https://github.com/mobicardsystemsltd/mobitoken-detokenize-nodejs) | De-Tokenization NodeJS SDK for MobiToken API |
+| [De-Tokenization cURL SDK](https://github.com/mobicardsystemsltd/mobitoken-detokenize-curl) | De-Tokenization Curl client for MobiToken API |
 ---
 ---
 
