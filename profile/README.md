@@ -64,8 +64,9 @@ Note:
 ### Technical Difference: 
 Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. Method 1 is a 2-step API call process while Method 2 involves a single API call.
 
-    
+#    
 ### Method 1
+
 | SDK Repository | Description |
 |---------------|-------------|
 | [Scan Card PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method1-php) | PHP SDK for Scan API using device Camera |
@@ -75,8 +76,9 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Scan Card cURL SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
 
 
-
+#
 ### Method 2
+
 | SDK Repository | Description |
 |---------------|-------------|
 | [Scan Card Base64 PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method2-php) | PHP SDK for developers who want full control over their UI/UX.  |
@@ -87,7 +89,6 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 
 
 
-
 | SDK Repository | Description |
 |---------------|-------------|
 | [React Native / Expo Implementation](https://github.com/mobicardsystemsltd/scanapi-react) | PHP SDK for Scan API using device Camera |
@@ -95,6 +96,8 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Ionic Implementation](https://github.com/mobicardsystemsltd/scanapi-ionic) | Java client library for Scan API |
 | [PWA Implementation](https://github.com/mobicardsystemsltd/scanapi-pwa) | PWA SDK for Scan API |
 | [Pure Javascript Implementation](https://github.com/mobicardsystemsltd/scanapi-javascript) | Javascript SDK for Scan API |
+
+
 
 ---
 ---
